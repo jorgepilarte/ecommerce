@@ -1,0 +1,37 @@
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+}
+.jumbotrons{
+	background-image: url(../img/portada.PNG);
+	color: white;
+}
+footer{
+	background-color: black;
+	padding: 25px;
+	color: white;
+	width: auto;
+}
+footer > a {
+	color: white;
+}
+.sidenav{
+	padding-top: 20px;
+	background-color: #f1f1f1;
+	height: 100%;
+}
+.row.content{
+	height: 650px;
+}
+#contenedor{
+	padding: 5px 25px;
+	margin-top: 25px;
+}
+.izq{
+	float: left;
+	margin-right: 10px;
+}
+th{
+	background: gray;
+	color: black;
+}
